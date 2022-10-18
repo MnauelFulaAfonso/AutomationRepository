@@ -1,2 +1,2 @@
 # AutomationRepository
-Este repositório teremos os primeiros código de automação com o katalon
+Neste repositório teremos os primeiros código de automação com o katalon
